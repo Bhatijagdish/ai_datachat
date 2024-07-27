@@ -1,0 +1,11 @@
+.venv/
+models/
+data/
+.chainlit/
+.files/
+chainlit.md
+*.gguf
+*.db
+.env
+__pycache__/
+**/__pycache__/
